@@ -1,0 +1,50 @@
+=== Space Invaders X ===
+
+Space Invaders X was programmed on and off in my spare time while studying
+Software Engineering at the University of Auckland. Work began in June 2005 and
+it was finally completed in November 2007. It was created as an entry to a game
+creation competition organised by one Andrew "MANdrew" W to create a
+Space Invaders Game in Java, particularly aimed at the Software Engineering
+class of 2004-2007, who were half way through their second year at the time of
+the competition. Due to lack of entrants all official competition end dates
+were ignored and progress on Space Invaders X continued from time to time for
+the next two and a half years.
+
+In November 2016 I ported Space Invaders X to use PlayN, which involved only
+minor changes, so that I could then cross-compile it to use HTML5 / WebGL.
+
+To create Space Invaders X I used:
+* Sun Java 1.5.0
+* PlayN
+* TextPad
+* Mozilla Firefox
+* Adobe Photoshop 6.0
+* WaveSurfer
+* MS Paint, Sound Recorder, Calculator
+
+This game is dedicated to the Software Engineering class of 2004-2007 at the 
+University of Auckland.
+
+(C) Andrew O - 2007
+
+
+=== Notes ===
+
+Instead of clicking the START button, you can start the game by clicking a
+hidden "TRAIN" button at the start of the screen, which starts the game in
+training mode. This means you have infinite lives, but your score will not be
+shown on the highscore table.
+
+The same number of enemies appear in one or two player mode so the game is
+much easier with two players.
+
+=== Ownership ===
+
+The code is my own except where it uses the underlying platform -
+originally the Java SDK, and now also PlayN.
+
+The graphics are mostly borrowed but are usually modified and occasionally
+created from scratch.
+The sounds are all borrowed but a few have been modified.
+The music is entirely borrowed (see music/credits.txt).
+

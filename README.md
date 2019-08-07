@@ -1,2 +1,4 @@
 # spaceinvadersx
-Two player vertical scrolling shootemup
+### Two player vertical scrolling shootemup
+Playable at https://codemonkey232.github.io/spaceinvadersx/
+

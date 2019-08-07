@@ -1,0 +1,34 @@
+=== Music Credits ===
+
+** SWIV_decimation.mod **
+Title track of "SWIV"
+Andrew Barnabas, Storm
+Released for Amiga 1991
+
+** Stardust.mod **
+Main track of "Stardust"
+RIB, Bloodhouse
+Released for Amiga 1993
+
+** Blade_Raver.mod **
+"Blade Raver"
+Bionic Blade, 1992
+
+** Assassin.mod **
+Title track of "Assassin"
+Allister Brimble, Psionic Systems
+Released for Amiga 1992
+
+** Xpedition.mod **
+Main track of "Xpedition"
+GOBI, for Amiga
+
+** SWIV_Mellow.mod **
+Highscore track of "SWIV"
+Andrew Barnabas, Storm
+Released for Amiga 1991
+
+** SD_GameOver.mod **
+Gameover track of "Stardust"
+RIB, Bloodhouse
+Released for Amiga 1993

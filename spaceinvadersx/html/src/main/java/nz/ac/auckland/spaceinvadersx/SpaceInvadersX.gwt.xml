@@ -1,0 +1,14 @@
+<module rename-to='spaceinvadersx'>
+  <inherits name='playn.Scene'/>
+  <inherits name='SpaceInvadersXAssets'/>
+
+  <source path='core'/>
+  <source path='game'/>
+  <source path='graphics'/>
+  <source path='menu'/>
+  <source path='html'/>
+
+  <public path="resources" />
+
+  <entry-point class='nz.ac.auckland.spaceinvadersx.html.SpaceInvadersXHtml'/>
+</module>
