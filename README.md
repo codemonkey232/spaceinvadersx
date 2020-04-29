@@ -1,4 +1,4 @@
 # spaceinvadersx
 ### Two player vertical scrolling shootemup
-Playable at https://olseny232.github.io/spaceinvadersx/
+Playable at https://olsen232.github.io/spaceinvadersx/
 
